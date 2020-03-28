@@ -2,9 +2,9 @@
 
 Make an AI of fishes.
 
-The V1 is just a representation of fiches by vectors.
+The V1 is just a representation of fishes by vectors.
 
-The V2 is an improve, fiches can now detect collision between them, and like a boids of fish they follow when they encounter.
+The V2 is an improve, fishes can now detect collision between them, and like a boids of fish they follow when they encounter.
 
 The V3 is the same as V2 but now they detect the limit of map in top and bottom.
 
